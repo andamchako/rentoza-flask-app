@@ -1,0 +1,65 @@
+,Brand,Item,Price,CustomerID,CustomerMail,RentalDate,December,January,February,SubStatus
+0,Samsung,Galaxy A32 5G,560,MX7YVLAR5,****@gmail.com,2021-12-23,0,0,0,Flag
+1,Samsung,Galaxy A12 - 64GB Quad Cam,340,EFRNE53MW3,****@gmail.com,2022-01-20,0,1,1,Safe
+2,Samsung,SAMSUNG GALAXY A22 64GB 5G,420,MJXXHP2C8,****@gmail.com,2021-12-11,1,0,1,Safe
+3,Mecer,MECER MYLIFE 14 Z140C XPRESS CELERON N4020 4GB 128GB EMMC STORAGE LAPTOP,380,269CRYAPX,****@gmail.com,2022-01-11,1,1,1,Safe
+4,XBox,MICROSOFT XBOX SERIES S,580,9JW95M9RC9,****@gmail.com,2022-01-05,1,1,1,Safe
+5,Lenovo,Lenovo Warrior Bundle,640,15ALA2LYTX7,****@gmail.com,2021-12-27,1,1,1,Safe
+6,Samsung,GALAXY A03S 32GB - TRI CAM,270,3CL2UKWTMFM,****@gmail.com,2021-12-26,0,0,1,Flag
+7,Sony,"PS4 500 GB BUNDLE (GTS, SPIDER-MAN, R&C, 90-DAY PSN, HDMI CABLE)",590,1P67L9X3K37,****@gmail.com,2021-12-15,1,1,0,Safe
+8,Samsung,Galaxy A52S 5G,760,89XUNN8VN3,****@gmail.com,2022-01-25,1,0,0,Flag
+9,Apple,13-INCH MACBOOK AIR APPLE M1 CHIP 256GB,1560,AJ0Y2MPA6F0,****@gmail.com,2021-12-15,0,1,0,Flag
+10,Apple,iPhone 11 64GB,1350,FEFUMV9LY,****@gmail.com,2021-12-31,1,1,0,Safe
+11,Apple,iPhone 13 128GB,2699,9LFEC785EF,****@gmail.com,2021-12-28,1,0,0,Flag
+12,Sony,PS5 Disk Edition,1250,CVJJPMRET,****@gmail.com,2021-12-29,0,1,1,Safe
+13,Samsung,GALAXY WATCH 4 WiFi GPS,390,2CHF6YY01,****@gmail.com,2022-01-13,1,1,1,Safe
+14,XBox,Microsoft Xbox Series X,950,16PHJK4F3L,****@gmail.com,2022-01-20,1,1,1,Safe
+15,Huawei,Band 6,160,MTA1UR57X,****@gmail.com,2022-01-02,1,1,0,Safe
+16,Samsung,Galaxy A52S 5G + GALAXY WATCH 4 (40mm) WiFi GPS,1210,9K9MRFATH0,****@gmail.com,2022-01-13,0,1,1,Safe
+17,Samsung,Galaxy Watch 4 Classic,530,EN0VK8JY1W,****@gmail.com,2022-01-16,0,0,0,Flag
+18,MSI,GF63 Thin Intel i5-10300H,1070,20X6C8N3XN,****@gmail.com,2022-01-18,1,1,0,Safe
+19,Nokia,Nokia 1.4,230,8HJTFX84A2,****@gmail.com,2022-01-29,0,1,1,Safe
+20,Xiaomi,Redmi 9A,310,L66V9UC5RN4,****@gmail.com,2022-01-17,0,0,0,Flag
+21,Nokia,C1 2nd Edition,170,4RMYVTL70UT,****@gmail.com,2022-01-27,0,0,0,Flag
+22,Xiaomi,Redmi Note 9T,430,16RLN5WPW4,****@gmail.com,2021-12-27,0,1,0,Flag
+23,Apple,iPhone 12 64GB,1670,U6AKMX36,****@gmail.com,2022-01-07,0,0,0,Flag
+24,Apple,Watch Series 7 Aluminium Case With Sport Band (GPS),810,4E112PKWNM1,****@gmail.com,2021-12-12,0,0,0,Flag
+25,Apple,Watch SE GPS Aluminium Case with Sport Band - Regular,650,ET0KTC3T53,****@gmail.com,2021-12-22,0,0,0,Flag
+26,XBox,MICROSOFT XBOX SERIES S + Fortnite and Rocket League Bundle,580,2A1XU7RCW,****@gmail.com,2021-12-29,1,1,1,Safe
+27,Huawei,MateBook D14 i5 NobelB-WAH9EQ,899,19F4UJN5AJ,****@gmail.com,2021-12-21,0,1,0,Flag
+28,Huawei,MATEBOOK D15 I3,730,E5TVJ67NY,****@gmail.com,2022-01-25,0,0,0,Flag
+29,Samsung,Galaxy A52S 5G + GALAXY WATCH 4 (40mm) WiFi GPS,1170,4V28ETMA4H,****@gmail.com,2021-12-21,1,1,0,Safe
+30,Samsung,Galaxy S20 FE 128GB,1470,2E5AWYXTU,****@gmail.com,2022-01-11,0,1,0,Flag
+31,Apple,iPhone 6s,620,30FT7VMH5E,****@gmail.com,2021-12-02,1,0,1,Safe
+32,Apple,Airpods 3rd generation,340,9YT8A6LP,****@gmail.com,2022-01-05,0,1,0,Flag
+33,Apple,Airpods Pro with Wireless Charging Case (2021),440,P1E5H7PTWM,****@gmail.com,2022-01-15,0,1,1,Safe
+34,Samsung,Galaxy Buds Pro,300,E1H439W4UC,****@gmail.com,2022-01-19,1,0,1,Safe
+35,Xiaomi,Redmi 9C,260,3CFN8AYK2UT,****@gmail.com,2021-12-13,0,0,0,Flag
+36,Apple,iPhone XR 64GB,1250,20FKVRP6H,****@gmail.com,2022-01-03,1,0,1,Safe
+37,Apple,iPhone 13 Mini 128GB,1690,27P1NAH1R,****@gmail.com,2021-12-25,0,0,0,Flag
+38,Sony,PS5 + Far Cry 6 + Fifa 22 + 2 Controllers + PS remote,1740,4WY1Y0KTN5,****@gmail.com,2021-12-07,1,1,1,Safe
+39,Huawei,MATEBOOK D15 i3 + FreeLace Wireless Earphones,680,4XT0XCYV45X,****@gmail.com,2022-01-04,1,0,1,Safe
+40,Huawei,WATCH GT 2 Pro Nebula Gray,470,JUWA97R5,****@gmail.com,2021-12-28,0,0,1,Flag
+41,Apple,iPhone 12 Mini 64GB,1460,1YMU246YH5,****@gmail.com,2022-01-26,1,0,1,Safe
+42,Samsung,Galaxy Watch 4 WiFI GPS + LTE,490,EE5X33NTXY,****@gmail.com,2022-01-02,1,0,1,Safe
+43,Nokia,Nokia 1.4 + Nokia C1 2nd Edition,370,AVR8THE0V,****@gmail.com,2022-01-10,1,1,1,Safe
+44,MSI,Modern 14 Intel i3-10110U,699,H8RJ4RX56A,****@gmail.com,2021-12-21,1,0,0,Flag
+45,Lenovo,Lenovo A4 Slim + Pantum Printer,360,AFXYLWX82A,****@gmail.com,2021-12-19,1,0,1,Safe
+46,Apple,iPhone 13 + Airpods 3rd Gen + Watch Series 7 41mm,3089,JXALJL29,****@gmail.com,2022-01-22,0,0,0,Flag
+47,MSI,Modern 15 Intel i7-1165G7,1299,FNUCM9F749,****@gmail.com,2021-12-30,0,0,1,Flag
+48,Huawei,Watch Fit Elegant,270,61RHTTM,****@gmail.com,2021-12-16,1,0,0,Flag
+49,Huawei,Matebook D14 i7,1580,4YFKJ6U6RYJ9,****@gmail.com,2021-12-28,0,1,1,Safe
+50,Apple,iPhone 13 Mini + Airpods (3rd Generation),2050,11F1278LP4U,****@gmail.com,2022-01-01,1,0,0,Flag
+51,Huawei,Watch GT 2e 46mm,310,1E7PH93VV6,****@gmail.com,2021-12-26,1,0,1,Safe
+52,Samsung,Galaxy Buds Live,240,A9UYEW8AH,****@gmail.com,2021-12-29,0,1,1,Safe
+53,Apple,Watch Series 7 Aluminium Case With Sport Band (GPS + Cellular),999,1HH3PHXYN,****@gmail.com,2021-12-13,0,1,1,Safe
+54,Apple,MacBook Pro 13-inch M1 Chip,2499,RH6T7JE5,****@gmail.com,2021-12-25,1,1,1,Safe
+55,Oppo,A16S 64GB,420,1VLTCJURX,****@gmail.com,2022-01-04,1,0,0,Flag
+56,Sony,PS5 + Fifa 22 + Call of Duty Vanguard+  1 controller + Gaming Headset,1750,EV7V4HFJYW,****@gmail.com,2022-01-02,1,0,1,Safe
+57,Apple,iPhone 13 Mini 128GB,1690,4CUU7RV61KN,****@gmail.com,2022-01-10,1,1,1,Safe
+58,Apple,iPhone SE 64GB,1030,11CFTXWLMH,****@gmail.com,2021-12-12,0,1,0,Flag
+59,Samsung,Galaxy S21 FE 128GB,1580,88X469YL2,****@gmail.com,2021-12-29,1,1,1,Safe
+60,Huawei,Band 4e Active Black,90,PKRFWC9AHEC,****@gmail.com,2022-01-17,0,0,0,Flag
+61,Samsung,Galaxy A03 Core 32GB,398,25YNV4TVCE3AL,****@gmail.com,2022-01-08,1,1,1,Safe
+62,Sony,PS5 Accessories: Pulse 3D Wireless Headset + Media Remote + 1 Controller + 1 Game,399,1L6KXJMLR,****@gmail.com,2022-01-22,0,0,1,Flag
+63,Apple,iPhone 13 128GB + iPhone 13 Mini 128GB,3520,102VVLY38T,****@gmail.com,2022-01-07,1,1,1,Safe
